@@ -1,0 +1,15 @@
+# Logs and caches
+/storage/logs/
+/storage/cache/
+
+# SQLite database
+/storage/database/*.sqlite
+
+# Environment overrides
+.env
+
+# Vendor (if composer is added later)
+/vendor/
+
+# Node modules if front-end tooling added later
+/node_modules/
